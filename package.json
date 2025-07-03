@@ -1,0 +1,17 @@
+{
+  "name": "chai-aur-backend-project",
+  "version": "1.0.0",
+  "description": "a backend project that i am making from chai-aur-code channel",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Aditya Chawla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
